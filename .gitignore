@@ -12,3 +12,6 @@ coverage/
 Thumbs.db
 .vscode/
 .idea/
+
+# Product workspaces are local-only and must not be committed.
+products/*
